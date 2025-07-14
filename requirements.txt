@@ -1,0 +1,11 @@
+gradio
+pandas
+numpy
+Pillow
+langchain
+sentence-transformers
+faiss-cpu
+transformers
+torch
+accelerate
+qwen-vl-utils
